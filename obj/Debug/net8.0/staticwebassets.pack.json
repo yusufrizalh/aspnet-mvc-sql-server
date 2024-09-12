@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\products\\Thursday092024140918500.jpg",
+      "PackagePath": "staticwebassets\\products\\Thursday092024140918500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\products\\Thursday092024151514876.jpg",
+      "PackagePath": "staticwebassets\\products\\Thursday092024151514876.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\products\\ai-generated-8083005_1280.jpg",
       "PackagePath": "staticwebassets\\products\\ai-generated-8083005_1280.jpg"
     },

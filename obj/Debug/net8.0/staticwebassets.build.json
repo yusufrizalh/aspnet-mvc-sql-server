@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sA/66M98J+wBikXc9V593D9QXkW3D1CS6KL0IFk4mJI=",
+  "Hash": "0DKoe/4PeZtXWrKdYj6afD3L15Cb4bJ518T2R+c1MIg=",
   "Source": "MyWebMvc",
   "BasePath": "_content/MyWebMvc",
   "Mode": "Default",
@@ -1288,6 +1288,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\products\\smartphone-2110169_1280.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\products\\Thursday092024140918500.jpg",
+      "SourceId": "MyWebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\",
+      "BasePath": "_content/MyWebMvc",
+      "RelativePath": "products/Thursday092024140918500.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Thursday092024140918500.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\products\\Thursday092024151514876.jpg",
+      "SourceId": "MyWebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\MyWebMvc\\MyWebMvc\\wwwroot\\",
+      "BasePath": "_content/MyWebMvc",
+      "RelativePath": "products/Thursday092024151514876.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\Thursday092024151514876.jpg"
     }
   ]
 }
